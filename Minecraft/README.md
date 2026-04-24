@@ -1,1 +1,1 @@
-![](.github-assets/steve.png) ![](.github-assets/creeper.png)
+![](Minecraft/steve.png)

@@ -1,2 +1,2 @@
-# minecraft-gamerpics
-archive of minecraft gamerpics
+# Minecraft Gamerpics
+An archive of every Minecraft gamerpic for the Xbox 360.

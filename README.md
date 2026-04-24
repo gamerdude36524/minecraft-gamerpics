@@ -1,5 +1,5 @@
 # Minecraft Gamerpics
-An archive of every Minecraft gamerpic for the Xbox 360.
+An archive of every Minecraft gamer picture for Xbox.
 
 | Content | Title | Official description | Release date |
 | ------- | ----- | -------------------- | ------------ |
